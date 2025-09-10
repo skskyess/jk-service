@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1747750487980,
+    "name": "Ихласова Жания",
+    "email": "111@mail.ru",
+    "description": "жалоба",
+    "date": "20.05.2025, 19:14:47",
+    "image": "http://localhost:5000/uploads/1747750487962-ÐÐ¸Ð°Ð³ÑÐ°Ð¼Ð¼Ð°_3_4_ÐÐ°ÑÑÐµÑÑ_Ð²Ð½ÐµÐ´ÑÐµÐ½Ð¸Ñ.png"
+  },
+  {
+    "id": 1747749556613,
+    "name": "Ихласова Жания",
+    "email": "123@mail.ru",
+    "description": "жалоба",
+    "date": "20.05.2025, 18:59:16",
+    "image": ""
+  },
+  {
+    "id": 1747678826742,
+    "name": "тест",
+    "email": "eldargaptykaev8@gmail.com",
+    "description": "жалобааа",
+    "date": "19.05.2025, 23:20:26",
+    "image": "http://localhost:5000/uploads/1747678826713-output.png"
+  },
+  {
+    "id": 1747677472950,
+    "name": "тест",
+    "email": "eldargaptykaev8@gmail.com",
+    "description": "tgrgtgt",
+    "date": "19.05.2025, 22:57:52",
+    "image": "http://localhost:5000/uploads/1747677472922-output.png"
+  },
+  {
+    "id": 1747676694974,
+    "name": "тест",
+    "email": "eldargaptykaev8@gmail.com",
+    "description": "жалоба",
+    "date": "19.05.2025, 22:44:54",
+    "image": "http://localhost:5000/uploads/1747676694948-output.png"
+  },
+  {
+    "id": 1747676149882,
+    "name": "тест",
+    "email": "eldargaptykaev8@gmail.com",
+    "description": "fvvvbfg",
+    "date": "19.05.2025, 22:35:49",
+    "image": "http://localhost:5000/uploads/1747676149854-output.png"
+  },
+  {
+    "id": 1747676045555,
+    "name": "тест",
+    "email": "eldargaptykaev8@gmail.com",
+    "description": "амам",
+    "date": "19.05.2025, 22:34:05",
+    "image": "http://localhost:5000/uploads/1747676045528-output.png"
+  },
+  {
+    "id": 1747676001642,
+    "name": "тест",
+    "email": "eldargaptykaev8@gmail.com",
+    "description": "амма",
+    "date": "19.05.2025, 22:33:21",
+    "image": ""
+  },
+  {
+    "id": 1747674757852,
+    "name": "тест",
+    "email": "eldargaptykaev8@gmail.com",
+    "description": "жалоба",
+    "date": "19.05.2025, 22:12:37",
+    "image": ""
+  },
+  {
+    "id": 1747329613617,
+    "name": "Ихласова Нагиза",
+    "email": "myappmobilehome@gmail.com",
+    "description": "жалобаа",
+    "date": "15.05.2025, 22:20:13",
+    "image": "http://localhost:5000/uploads/1747329613587-ÐÐ¸Ð°Ð³ÑÐ°Ð¼Ð¼Ð°_3_4_ÐÐ°ÑÑÐµÑÑ_Ð²Ð½ÐµÐ´ÑÐµÐ½Ð¸Ñ.png"
+  },
+  {
+    "id": 1747328228410,
+    "name": "Ихласова Нагиза",
+    "email": "myappmobilehome@gmail.com",
+    "description": "пипа",
+    "date": "15.05.2025, 21:57:08",
+    "image": "http://localhost:5000/uploads/1747328228388-ÐÐ¸Ð°Ð³ÑÐ°Ð¼Ð¼Ð°_3_4_ÐÐ°ÑÑÐµÑÑ_Ð²Ð½ÐµÐ´ÑÐµÐ½Ð¸Ñ.png"
+  }
+]

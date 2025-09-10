@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Ихласова Жания",
+    "phone": "+7 707 705 9922",
+    "email": "skskyess@mail.ru",
+    "password": "Zhaniyai5",
+    "complex": "Arman City",
+    "apartment": "301",
+    "agree": true
+  },
+  {
+    "name": "Zhaniya",
+    "phone": "+77077059922",
+    "email": "test2004@test.kz",
+    "password": "qwerty",
+    "complex": "Arman City",
+    "apartment": "300",
+    "agree": true
+  },
+  {
+    "name": "Ихласова Жания",
+    "phone": "+7 707 705 9922",
+    "email": "221306@almau.edu.kz",
+    "password": "123",
+    "complex": "Arman City",
+    "apartment": "3",
+    "agree": true
+  },
+  {
+    "name": "Байманова Милана",
+    "phone": "+77772256264",
+    "email": "aboran_74@mail.ru",
+    "password": "milana123",
+    "complex": "Arman City",
+    "apartment": "400",
+    "agree": true
+  },
+  {
+    "name": "Ихласова Нагиза",
+    "phone": "+7 707 705 9922",
+    "email": "myappmobilehome@gmail.com",
+    "password": "123",
+    "complex": "Green Valley",
+    "apartment": "505",
+    "agree": true
+  },
+  {
+    "name": "тест",
+    "phone": "777777777",
+    "email": "eldargaptykaev8@gmail.com",
+    "password": "123",
+    "complex": "Arman City",
+    "apartment": "123",
+    "agree": true
+  },
+  {
+    "name": "Ихласова Жания",
+    "phone": "+7 707 705 9922",
+    "email": "123@mail.ru",
+    "password": "123",
+    "complex": "Arman City",
+    "apartment": "333",
+    "agree": true
+  },
+  {
+    "name": "Ихласова Жания",
+    "phone": "+7 707 705 9922",
+    "email": "111@mail.ru",
+    "password": "12345",
+    "complex": "Arman City",
+    "apartment": "700/7",
+    "agree": true
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1747750493888,
+    "name": "Ихласова Жания",
+    "email": "111@mail.ru",
+    "topic": "поддержка",
+    "description": "поддержка",
+    "date": "20.05.2025, 19:14:53",
+    "image": ""
+  },
+  {
+    "id": 1747749561748,
+    "name": "Ихласова Жания",
+    "email": "123@mail.ru",
+    "topic": "поддержка",
+    "description": "поддержка",
+    "date": "20.05.2025, 18:59:21",
+    "image": ""
+  },
+  {
+    "id": 1747679141541,
+    "name": "тест",
+    "email": "eldargaptykaev8@gmail.com",
+    "description": "ркеркрр",
+    "date": "19.05.2025, 23:25:41",
+    "image": "http://localhost:5000/uploads/1747679141504-output.png"
+  },
+  {
+    "id": 1747678816798,
+    "name": "тест",
+    "email": "eldargaptykaev8@gmail.com",
+    "description": "поддежркааа",
+    "date": "19.05.2025, 23:20:16",
+    "image": "http://localhost:5000/uploads/1747678816757-output.png"
+  },
+  {
+    "id": 1747677859809,
+    "name": "тест",
+    "email": "eldargaptykaev8@gmail.com",
+    "description": "ипаиипа",
+    "date": "19.05.2025, 23:04:19",
+    "image": "http://localhost:5000/uploads/1747677859781-output.png"
+  },
+  {
+    "id": 1747677401015,
+    "name": "тест",
+    "email": "eldargaptykaev8@gmail.com",
+    "description": "Без описания",
+    "date": "19.05.2025, 22:56:40",
+    "image": "http://localhost:5000/uploads/1747677400995-output.png"
+  },
+  {
+    "id": 1747677314208,
+    "name": "тест",
+    "email": "eldargaptykaev8@gmail.com",
+    "description": "Без описания",
+    "date": "19.05.2025, 22:55:14",
+    "image": ""
+  },
+  {
+    "id": 1747677215391,
+    "name": "тест",
+    "email": "eldargaptykaev8@gmail.com",
+    "description": "Без описания",
+    "date": "19.05.2025, 22:53:35",
+    "image": "http://localhost:5000/uploads/1747677215362-output.png"
+  },
+  {
+    "id": 1747676705416,
+    "name": "тест",
+    "email": "eldargaptykaev8@gmail.com",
+    "description": "Без описания",
+    "date": "19.05.2025, 22:45:05",
+    "image": "http://localhost:5000/uploads/1747676705390-ÐÐ»Ð°Ð²Ð½ÑÐ¹_ÑÐºÑÐ°Ð½_ÑÐ²ÐµÐ»Ð¸ÑÐµÐ½Ð½ÑÐ¹_ÑÐµÐºÑÑ.png"
+  },
+  {
+    "id": 1747676230887,
+    "name": "тест",
+    "email": "eldargaptykaev8@gmail.com",
+    "text": "rggr",
+    "date": "19.05.2025, 22:37:10",
+    "image": "http://localhost:5000/uploads/1747676230862-output.png"
+  },
+  {
+    "id": 1747675928951,
+    "name": "тест",
+    "email": "eldargaptykaev8@gmail.com",
+    "text": "поддержкааа",
+    "date": "19.05.2025, 22:32:08",
+    "image": "http://localhost:5000/uploads/1747675928903-output.png"
+  },
+  {
+    "id": 1747675540993,
+    "name": "тест",
+    "email": "eldargaptykaev8@gmail.com",
+    "text": "поддержкаа",
+    "date": "19.05.2025, 22:25:40",
+    "image": "http://localhost:5000/uploads/1747675540974-output.png"
+  },
+  {
+    "id": 1747674769115,
+    "name": "тест",
+    "email": "eldargaptykaev8@gmail.com",
+    "description": "поддержка",
+    "date": "19.05.2025, 22:12:49",
+    "image": "http://localhost:5000/uploads/1747674769085-output.png"
+  },
+  {
+    "id": 1747329972884,
+    "name": "Ихласова Нагиза",
+    "email": "myappmobilehome@gmail.com",
+    "description": "поддержка",
+    "date": "15.05.2025, 22:26:12",
+    "image": "http://localhost:5000/uploads/1747329972867-Section 6 Background Image.png"
+  },
+  {
+    "id": 1747329931037,
+    "name": "Ихласова Нагиза",
+    "email": "myappmobilehome@gmail.com",
+    "description": "поддержка",
+    "date": "15.05.2025, 22:25:30",
+    "image": "http://localhost:5000/uploads/1747329931018-ÐÐ¸Ð°Ð³ÑÐ°Ð¼Ð¼Ð°_3_4_ÐÐ°ÑÑÐµÑÑ_Ð²Ð½ÐµÐ´ÑÐµÐ½Ð¸Ñ.png"
+  }
+]
