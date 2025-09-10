@@ -1,0 +1,88 @@
+.requests-container {
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .main{
+    padding: 40px;
+    margin-bottom: 40px;
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+  }
+  
+  .filters {
+    display: flex;
+    justify-content: center;
+    border: 1.5px solid #ffbd00;
+    border-radius: 30px;
+    overflow: hidden;
+    width: fit-content;
+  }
+  
+  .filter-button {
+    padding: 10px 20px;
+    background-color: white;
+    border: none;
+    outline: none;
+    font-weight: bold;
+    color: #000;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .filter-button:not(:last-child) {
+    border-right: 1px solid #ffbd00;
+  }
+  
+  .filter-button.active {
+    background-color: #ffbd00;
+    color: #fff;
+  }
+  
+  .requests-list {
+    margin-top: 20px;
+    width: 100%;
+    /* max-width: 500px; */
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  
+  .request-card {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 12px;
+  }
+  
+  .request-title {
+    font-weight: bold;
+  }
+  
+  .request-info {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4px;
+  }
+  
+  .request-status {
+    font-weight: bold;
+  }
+  
+  .status-complete {
+    color: green;
+  }
+  
+  .status-inprogress {
+    color: orange;
+  }
+  
+  .status-declined {
+    color: red;
+  }
+  
+  .status-default {
+    color: gray;
+  }
+  

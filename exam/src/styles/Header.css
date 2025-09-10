@@ -1,0 +1,12 @@
+.header {
+    background: #1d1d1d;
+    color: #f0c100;
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    font-weight: bold;
+  }
+  
+.header-h2{
+    margin: 0 auto;
+}

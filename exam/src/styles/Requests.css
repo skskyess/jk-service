@@ -1,0 +1,56 @@
+.request-page,
+.custom-header {
+    padding: 20px 50px;
+  }
+  .back-arrow{
+    font-size: 24px;
+  }
+  
+  .tabs {
+    display: flex;
+    border: 1px solid #facc15; 
+    border-radius: 20px;
+    overflow: hidden;
+    margin-bottom: 24px;
+  }
+  
+  .tab {
+    flex: 1;
+    padding: 12px 0;
+    color: #666;
+    background-color: white;
+    border: none;
+    font-weight: 500;
+  }
+  
+  .tab-active {
+    flex: 1;
+    padding: 12px 0;
+    background-color: #facc15;
+    color: white;
+    font-weight: 500;
+    border: none;
+  }
+  
+  .empty-text {
+    text-align: center;
+    color: #aaa;
+    margin: 40px 0 24px;
+  }
+  
+  .request-button {
+    position: fixed;
+    bottom: 20%;
+    width: 90%;
+    padding: 12px;
+    border-radius: 20px;
+    background: linear-gradient(to right, #fcd34d, #f59e0b);
+    color: white;
+    font-weight: 600;
+    border: none;
+  }
+
+.page-title{
+    text-align: center;
+}
+  

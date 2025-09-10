@@ -1,0 +1,50 @@
+.support-container {
+    padding: 20px;
+    font-family: sans-serif;
+  }
+  
+  .support-header {
+    background-color: #1a1a1a;
+    color: #f9b233;
+    padding: 16px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+  }
+  
+  .support-logo {
+    height: 40px;
+  }
+  
+  .support-list {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  
+  .support-item {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+    padding: 12px;
+    border-radius: 12px;
+  }
+  
+  .support-avatar {
+    height: 40px;
+    margin-right: 12px;
+  }
+  
+  .support-info h4 {
+    margin: 0;
+    font-weight: 600;
+  }
+  
+  .support-info p {
+    margin: 4px 0 0;
+    color: #555;
+  }
+  
